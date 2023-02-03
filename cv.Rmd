@@ -6,7 +6,7 @@
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
+<center>
 
 ## **Karter Couser**
 
@@ -14,7 +14,7 @@ Graduate student
 
 kcou8702@students.vsu.edu
 
-
+</center>
 
 <br>
 
