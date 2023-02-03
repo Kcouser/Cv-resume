@@ -1,30 +1,66 @@
 ---
-title: "CV"
-author: "Karter Couser"
-date: "2023-02-03"
-output: html_document
+
+
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## Karter Couser kcou8702@students.vsu.edu | 804.822.9620
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
-```
+<center> Centered text (HTML) </center>
+[Aligned right (HTML)]{style="float:right"} 
 
-## Including Plots
+<br>
 
-You can also embed plots, for example:
+**Education** 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
+Virginia State University master's in biology Anticipated Graduation: Spring:2023 GPA: 3.8 
+
+<br>
+
+**RELEVANT RESEARCH EXPERIENCE:**
+
+●	2022-2023 Dr. Chris Roh, Dr. Anthony Hay “Seed dispersal” Cornell University Ithaca, New York
+
+●	2021-2022 Thesis Work: Dr. Siddiqui, Dr. Rafie, Dr. H. Li, “A study on the anticancer property of blueberry in human liver cancer cells” Virginia State University, Petersburg, VA
+
+●	2018-2019 Dr. Cobb-Abdullah “Analyzing the Accumulation, of cadmium absorbed in plant tissue” Virginia Union University, Richmond, VA
+
+●	2018-2019 Dr. Jackson “Portion Control: Analyzing heat and volume Variations in Copper Nanoparticles”, Virginia Union University, Richmond, VA
+
+●	2016 - Dr. Jackson “Analyzing the antibacterial properties of Nanoparticles doped in MOFs”,Virginia Union University, Richmond, VA
+
+
+<br>
+
+**POSTER PRESENTATIONS:**
+<br>
+●April 2022, Association of Research Directors (ARD) Oral Presentation, Atlanta, Georgia, 
+“Effect of Cultivation Conditions on Blueberry (Vaccinium Corymbosum) Polyphenolic Contents and Characterization of their Anticancer Effects on Hepatic Cancer Cells.”
+
+●April 2022, Black in Physiology Conference Poster Presentation, Virtual 
+“Air pollution Effects on Prenatal Neurological Development.”
+
+●April 2019 American Chemical Society Undergraduate Research Poster Session, Orlando, Florida “Analyzing the Accumulation, of cadmium absorbed in plant tissue”.
+
+●April 2018 and 2019 American Chemical Society Undergraduate Research Poster Session, University of Virginia, Charlottesville, VA. “Portion Control: Analyzing heat and volume Variations in Copper Nanoparticles”. Dr. K. Jackson.
+
+●November 2018 Annual Biomedical Research Conference for Minority Students, Indianapolis Convention Center, Indianapolis, Indiana. “Analyzing the Accumulation of cadmium absorbed in plant tissue”.
+
+●April 2018 Research and Creative Inquiry, Virginia Union University, “Portion Control: Analyzing heat and volume Variations in Copper Nanoparticles”.
+
+●April 2016 American Chemical Society Undergraduate Research Poster Session, University of Virginia, Charlottesville, VA. Jackson “Analyzing the effects of eugenol and caffeine of freshwater Fish”. 
+
+
+
+
+
+
+
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
