@@ -8,17 +8,15 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-## Karter Couser kcou8702@students.vsu.edu | 804.822.9620
+**Karter Couser kcou8702@students.vsu.edu | 804.822.9620 </center>**
 
 
-<center> Centered text (HTML) </center>
-[Aligned right (HTML)]{style="float:right"} 
 
 <br>
 
 **Education** 
 
-Virginia State University master's in biology Anticipated Graduation: Spring:2023 GPA: 3.8 
+Virginia State University Master's of Science in biology Anticipated Graduation: Spring:2023 GPA: 3.8 
 
 <br>
 
@@ -61,6 +59,3 @@ Virginia State University master's in biology Anticipated Graduation: Spring:202
 
 
 
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
