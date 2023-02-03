@@ -8,7 +8,11 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-## **Karter Couser kcou8702@students.vsu.edu | 804.822.9620 **
+## **Karter Couser**
+
+Graduate student
+
+kcou8702@students.vsu.edu
 
 
 
@@ -53,7 +57,34 @@ Virginia State University Master's of Science in biology Anticipated Graduation:
 
 ●April 2016 American Chemical Society Undergraduate Research Poster Session, University of Virginia, Charlottesville, VA. Jackson “Analyzing the effects of eugenol and caffeine of freshwater Fish”. 
 
+<br>
 
+**MOST RECENT WORK HISTORY:**
+
+● Aug 2022- May 2023 Cornell University- Thomas Wyatt Turner Fellow/
+Graduate Research Assistant
+
+● Aug 2021- Dec 2022 Virginia State University – Graduate Research
+Assistant/TA
+
+● Oct 2020-July2022 Next Molecular Analytics – Molecular lab - Laboratory Analysts
+
+● Dec 2019- July 2021 Pharmaceutical Product Development- Assistant
+Scientist working in Vaccines
+
+● July 2019-Sept 2022 IEH Institute for Environmental Health- Microbiology Lab Analyst
+
+● May 2016-Aug 2019 Virginia Union University- Lab Tech/Research
+
+<br>
+
+**Volunteer**
+
+-2021-2022 Community Garden –Coordinator and garden manager, The Light Community Church
+
+-2018-2020 Small Farms community garden- Volunteer- Virginia State University
+
+-2017-2019 Jobs for Life- Mentor and instructor – The Light Community Church 
 
 
 
